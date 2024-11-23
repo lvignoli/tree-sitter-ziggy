@@ -23,7 +23,7 @@
       }
     ],
     "links": {
-      "repository": "https://github.com/tree-sitter/tree-sitter-ziggy"
+      "repository": "https://github.com/lvignoli/tree-sitter-ziggy"
     }
   },
   "bindings": {
