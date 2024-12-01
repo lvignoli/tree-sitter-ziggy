@@ -1,4 +1,4 @@
-module github.com/tree-sitter/tree-sitter-ziggy
+module github.com/lvignoli/tree-sitter-ziggy
 
 go 1.22
 

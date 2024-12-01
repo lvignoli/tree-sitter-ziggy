@@ -3,7 +3,7 @@ $(error Windows is not supported)
 endif
 
 LANGUAGE_NAME := tree-sitter-ziggy
-HOMEPAGE_URL := https://github.com/tree-sitter/tree-sitter-ziggy
+HOMEPAGE_URL := https://github.com/lvignoli/tree-sitter-ziggy
 VERSION := 0.1.0
 
 # repository
